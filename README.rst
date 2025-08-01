@@ -3,27 +3,7 @@ Compgen Course 2025
 
 Here I collect relevant course material for the Computational Genomics Course (10-16 March 2025), Module 3.
 In this module, we learn about how to use deep learning models to integrate multi-omics data in the context of precision oncology applications.
-
-Info
-===================
-
-
-In this course, we are using two resources to organize the course:
-
-1. **The Google Classroom** for private course-related information, coursework, meeting announcements:
-   `Google Classroom <https://classroom.google.com/c/NzQ5MTExMDU2Njkz>`_
-
-   If you have to share private information such as your email address, please use Google Classroom.
-   For any other problem that you run into, please use the GitHub Discussions (see below).
-
-2. **GitHub discussions** on this repository to provide help to each other:
-   `GitHub Discussions <https://github.com/BIMSBbioinfo/compgen_course_2025_module3/discussions>`_
-
-   We have created different categories for potential issues you may come across.
-   Please try to use the relevant category to open a discussion.
-   Before opening a new discussion topic, please check if something similar is already open.
-   If you know the answer to a question someone else raised, feel free to help your classmates! We appreciate your support.
-
+See here the tool (Flexynesis) that we use throughout this course: https://github.com/BIMSBbioinfo/flexynesis. 
 
 Course Material
 ======================
