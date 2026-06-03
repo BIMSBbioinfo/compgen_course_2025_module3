@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Base command
-BASE_CMD="flexynesis --use_gpu --data_path ccle_vs_gdsc --variance_threshold 50 --features_top_percentile 20 --target_variables Erlotinib --early_stop_patience 10 --hpo_iter 20 --outdir output"
+BASE_CMD="flexynesis --data_path ccle_vs_gdsc --variance_threshold 50 --features_top_percentile 20 --target_variables Erlotinib --early_stop_patience 10 --hpo_iter 20 --outdir output"
 # Define options
 MODELS=("DirectPred" "supervised_vae" "GNN")
 DATA_TYPES=("mutation" "mutation,rna" "mutation,cnv")
